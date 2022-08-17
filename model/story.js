@@ -14,7 +14,7 @@ import { hasRDFType } from "../model/utils";
 
 const StoryResourceUrls = {
   CreatingNeurodiverseWellbeing:
-    "https://exquisite-corpse.mysilio.me/mozfest2022/CreatingNeurodiverseWellbeing.ttl",
+    "https://exquisite-corpse.v0.mysilio.me/mozfest2022/CreatingNeurodiverseWellbeing.ttl",
 };
 
 export function urlForStoryLine(base, n) {
